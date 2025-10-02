@@ -1,15 +1,13 @@
 # PHYS2213 – Solid State for Devices  
-Lecture Slides, Exercises, and Tutorials  
+Lecture Slides and Tutorials  
 
-This repository hosts the teaching material for the **Solid State for Devices** module of the course **PHYS2213**. It is intended as a resource for students to access lecture slides, worked examples, exercises, and tutorial problems, all aligned with the course syllabus.
+This repository hosts the teaching material for the **Solid State for Devices** module of the course **PHYS2213**. It is intended as a resource for students to access lecture slides and tutorial problems, all aligned with the course syllabus.
 
 ---
 
 ##  Contents
 - **Lectures/**  
   Slide decks for each lecture, organised by chapter/topic.  
-- **Exercises/**  
-  Numerical and conceptual problems, some with step-by-step solutions.  
 - **Tutorials/**  
   Structured tutorials with guided explanations, useful for exam preparation.  
 
